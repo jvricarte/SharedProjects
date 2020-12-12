@@ -1,0 +1,34 @@
+#about p {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  .architect img {
+    width: 100%;
+    margin-bottom: 2rem;
+  }
+  
+  .architect h3 {
+    margin-bottom: 2rem;
+    font-size: 2rem;
+  }
+  
+  .architect h4 {
+    margin-bottom: 2rem;
+    font-size: 1.6rem;
+    font-weight: 400;
+    color: var(--secondary-grey-color);
+  }
+  
+  .button {
+    width: 100%;
+    height: 4rem; 
+    border: none;
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background: var(--secondary-lightgrey-color);
+  }

@@ -1,0 +1,17 @@
+.project-images {
+    position: relative;
+    margin-bottom: 2rem;
+  }
+  
+  .project-images p {
+    position: absolute;
+    padding: 1.3rem;
+    color: var(--white-color);
+    background: var(--black-color);
+    font-size: 1.6rem;
+  }
+  
+  .project-images img {
+    width: 100%;
+  }
+  
